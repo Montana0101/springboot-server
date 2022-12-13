@@ -4,14 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="5a80162d-e989-4d2c-ae2f-d0a8e9673f96" name="Default Changelist" comment="test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+=======
+    <list default="true" id="5a80162d-e989-4d2c-ae2f-d0a8e9673f96" name="Default Changelist" comment="" />
+>>>>>>> 0f9bcd415ba60a7c4c9011e920e754b258437fdb
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
@@ -37,6 +42,9 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+=======
+  <component name="ProjectId" id="2IrAAl1QFu0IKzXoKyMHjMsGnhh" />
+>>>>>>> 0f9bcd415ba60a7c4c9011e920e754b258437fdb
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -56,6 +64,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+<<<<<<< HEAD
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -80,10 +89,22 @@
         </value>
       </option>
       <option name="TEST_OBJECT" value="class" />
+=======
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="WikiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="wiki" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.m7.wiki.WikiApplication" />
+>>>>>>> 0f9bcd415ba60a7c4c9011e920e754b258437fdb
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="test#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/http/test.http" runType="Run single request">
       <method v="2" />
     </configuration>
@@ -103,6 +124,8 @@
         <item itemvalue="HTTP Request.test#2" />
       </list>
     </recent_temporary>
+=======
+>>>>>>> 0f9bcd415ba60a7c4c9011e920e754b258437fdb
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -112,13 +135,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670929188121</updated>
+<<<<<<< HEAD
       <workItem from="1670929189346" duration="6982000" />
+=======
+      <workItem from="1670929189346" duration="2703000" />
+>>>>>>> 0f9bcd415ba60a7c4c9011e920e754b258437fdb
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+<<<<<<< HEAD
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -138,4 +166,6 @@
     <expand />
     <select />
   </component>
+=======
+>>>>>>> 0f9bcd415ba60a7c4c9011e920e754b258437fdb
 </project>
