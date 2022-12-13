@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b4e9e00-3c8a-42cd-b037-47fefc59330a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-api/src/main/java/com/imooc/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-api/src/main/java/com/imooc/Knife4jConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-api/src/main/java/com/imooc/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-api/src/main/resources/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-api/src/main/resources/application-prod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-api/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-api/src/main/resources/banner/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-api/src/main/resources/banner/cat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-api/src/main/resources/banner/qiaoba.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-common/src/main/java/com/imooc/grace/result/GraceJSONResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-common/src/main/java/com/imooc/grace/result/ResponseStatusEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-mapper/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-mapper/src/main/java/com/imooc/model/Stu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-model/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-generator-for-imooc/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-generator-for-imooc/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-generator-for-imooc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-generator-for-imooc/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-generator-for-imooc/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-generator-for-imooc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-generator-for-imooc/src/main/java/com/imooc/mapper/CommentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-generator-for-imooc/src/main/java/com/imooc/mapper/FansMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-generator-for-imooc/src/main/java/com/imooc/mapper/MyLikedVlogMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-generator-for-imooc/src/main/java/com/imooc/mapper/UsersMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-generator-for-imooc/src/main/java/com/imooc/mapper/VlogMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-generator-for-imooc/src/main/java/com/imooc/my/mapper/mapper/MyMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-generator-for-imooc/src/main/java/com/imooc/mybatis/utils/GeneratorDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-generator-for-imooc/src/main/java/com/imooc/pojo/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-generator-for-imooc/src/main/java/com/imooc/pojo/Fans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-generator-for-imooc/src/main/java/com/imooc/pojo/MyLikedVlog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-generator-for-imooc/src/main/java/com/imooc/pojo/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-generator-for-imooc/src/main/java/com/imooc/pojo/Vlog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-generator-for-imooc/src/main/resources/mapper/CommentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-generator-for-imooc/src/main/resources/mapper/FansMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-generator-for-imooc/src/main/resources/mapper/MyLikedVlogMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-generator-for-imooc/src/main/resources/mapper/UsersMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-generator-for-imooc/src/main/resources/mapper/VlogMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\program\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../program/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2IfgFAI8FreHwxHdOO7JZXgZbVc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\练习\example\book-common\src\main\java\com\imooc\grace\result" />
+      <recent name="D:\练习\example\src\main\java\org\example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="book-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b4e9e00-3c8a-42cd-b037-47fefc59330a" name="Changes" comment="" />
+      <created>1670577948587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670577948587</updated>
+      <workItem from="1670582640873" duration="753000" />
+      <workItem from="1670584681143" duration="2580000" />
+      <workItem from="1670596110522" duration="2458000" />
+      <workItem from="1670726121199" duration="9832000" />
+      <workItem from="1670904651072" duration="122000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
